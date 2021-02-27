@@ -4,11 +4,6 @@
   font-weight: 400;
   color: #fff;
   text-decoration: none;
-  margin-right: 18px;
-}
-
-.header__link:last-child {
-  margin-right: 0;
 }
 
 @media screen and (max-width: 767px) {
